@@ -7,7 +7,8 @@
     },
     {
       "text": "About",
-      "url": "/about/"
+      "url": "/about/",
+      "external": false
     },
     {
       "text": "GitHub",
