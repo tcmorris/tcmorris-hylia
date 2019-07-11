@@ -11,9 +11,9 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/tcmorris",
-      "external": true
+      "text": "Talks",
+      "url": "/talks/",
+      "external": false
     },
     {
       "text": "Twitter",
