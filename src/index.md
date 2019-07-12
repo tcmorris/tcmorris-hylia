@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Hello
+title: Hello, I'm Thomas
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Thomas Morris is a dotnet developer working with Umbraco. 
+A dotnet developer working with Umbraco, an open source CMS. 
