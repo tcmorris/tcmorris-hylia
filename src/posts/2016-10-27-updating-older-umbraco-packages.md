@@ -1,7 +1,8 @@
 ---
 title: Updating older Umbraco packages
 tagline: A collection of packages / data types and their equivalents in Umbraco 7+.
-tags: umbraco
+tags: 
+- umbraco
 ---
 
 In a [recent post](http://tcmorris.net/blog/upgrading-umbraco/), I outlined some of the reasons for upgrading Umbraco and how best to approach the challenge. In that post, I mentioned that you are likely to have a number of issues with custom packages or custom data types. Below is a rundown of some of the examples I have encountered. If you have found others, it'd be great if you could add to the comments section and I'll look to edit this post with extra details in the hope that it can become a valuable resource.

@@ -2,7 +2,8 @@
 title: Getting Started with Models Builder
 tagline: A rundown of all the different modes for Models Builder and what they actually mean in terms of code.
 image: /public/images/models_builder_purelive.jpg
-tags: umbraco
+tags: 
+- umbraco
 ---
 
 Models Builder comes included in Umbraco 7.4 and out of the box it should just work, but what if you want more options? Below is a rundown of all the different modes for Models Builder and what they actually mean in terms of code.
@@ -26,7 +27,7 @@ If you set the first one to false, then it simply doesn't do anything and your s
 
 This is the default option with Umbraco and is designed as an easy way to get started. You shouldn't have to do anything clever and you will have strongly typed models in your views. Except that, this doesn't come with intellisense and you can't use them anywhere else apart from your views. This is all possible via some in memory compilation, at runtime.
 
-<img src="/public/images/models_builder_purelive.jpg" title="Models Builder - PureLive" />
+<img src="/images/models_builder_purelive.jpg" title="Models Builder - PureLive" />
 
 > The main point here is that it's really easy to edit your content types and templates from within Umbraco without the need for an application restart.
 

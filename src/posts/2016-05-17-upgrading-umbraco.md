@@ -1,7 +1,8 @@
 ---
 title: Upgrading Umbraco
 tagline: A rundown of some of the reasons for upgrading Umbraco and the challenges faced.
-tags: umbraco
+tags: 
+- umbraco
 ---
 
 During a recent project, I was tasked with upgrading a site from v4 of Umbraco to the latest and greatest. There are a few reasons for this and it doesn't come without it's challenges, but I think the end result is definitely worth it.

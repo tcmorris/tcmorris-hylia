@@ -1,7 +1,8 @@
 ---
 title: Using a custom domain for accessing umbraco
 tagline: Changing how your content editors access Umbraco.
-tags: umbraco
+tags: 
+- umbraco
 ---
 
 By default, content editors will be editing their content by appending umbraco to their domain. Sometimes you might not want your content editor to use that method and would like them to use an alternative URL. This could be for a few reasons...
@@ -21,3 +22,14 @@ Whereas, the site will be visible at:
 > http://www.example.com/ 
 
 If you have done something similar or have alternatives that you use, then please feel free to leave a comment! 
+
+```xml
+<!-- Restrict access to Umbraco -->
+<rule name="Restrict access" stopProcessing="true">
+    <match url="umbraco(?!/Surface/)" />
+    <conditions logicalGrouping="MatchAny" trackAllCaptures="false">
+        <add input="{HTTP_HOST}" matchType="Pattern" pattern="admin.example.com" ignoreCase="true" negate="true" />
+    </conditions>
+    <action type="Redirect" url="/not-found" appendQueryString="false" />
+</rule>
+```

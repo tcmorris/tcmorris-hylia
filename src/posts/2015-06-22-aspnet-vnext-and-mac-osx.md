@@ -2,7 +2,8 @@
 title: ASP.NET vNext and Mac OS X
 tagline: A quick look at how to set up ASP.NET on a Mac.
 image: /public/images/aspnet_vnext_1.jpg
-tags: dotnet
+tags: 
+- dotnet
 ---
 
 One of the highlights of ASP.NET vNext is that it will be cross-platform. What this means is a few things...
@@ -66,7 +67,7 @@ Now that we have the yo generator, we can type this into a command prompt:
 	
 ... and what you should end up with is something that looks like this:
 
-<img src="/public/images/aspnet_vnext_1.jpg" title="generator-aspnet on OS X" width="100%" />
+<img src="/images/aspnet_vnext_1.jpg" title="generator-aspnet on OS X" width="100%" />
 	
 Pretty cool huh?! In this example, I am going to choose to create a real basic console application, but the templates allow you to create web applications also.
 
@@ -75,6 +76,6 @@ After answering a few questions, we should have something that we can run and ob
 	dnu restore
 	dnx . run
 	
-<img src="/public/images/aspnet_vnext_2.jpg" title="Running vNext on OS X" width="100%" />
+<img src="/images/aspnet_vnext_2.jpg" title="Running vNext on OS X" width="100%" />
 
 And that just about sums up how to get started with ASP.NET vNext on OS X. 

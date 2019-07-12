@@ -39,7 +39,7 @@ I've now got a bunch of files that provide me with the generated models from Umb
 
 In a view, this is what we can do:
 
-```
+```csharp
 @inherits UmbracoViewPage<MyModel>
 ```
 
@@ -47,7 +47,7 @@ Then, within the view there will be intellisense and I will be notified of compi
 
 Ok, that sounds great. But, there's something a little iffy with using a model that Umbraco generated for me and is closely tied with the content in Umbraco. What if I wanted to extend this or have my own properties? Well, there's a solution for that. The official docs suggest that we create another partial class and add what we need there, but I think I prefer this method. We can just inherit from the model that Models Builder gave us.
 
-```
+```csharp
 public class FridayBeersViewModel : FridayBeers
 {
     public FridayBeersViewModel(IPublishedContent content) 
@@ -62,7 +62,7 @@ We've still got all the properties from the generated model and we can also buil
 
 In the controller, you would then have something like this.
 
-```
+```csharp
 public class FridayBeersController : BasePageController
 {
     public ActionResult FridayBeers()
@@ -80,7 +80,7 @@ I'm hijacking the route so that I can amend the default behaviour of Umbraco. I'
 
 The above example would work well for a page or a block of content, but we might want to break things up a little more and make better use of sharing code. When we use compositions, what we get from a generated sense is an interface and then our content models implement those properties. They can also make use of many compositions. This is great, because it means we can then define the interface as the model within a view if we want to. For example, if we had a interface such as IMetaData we can create a related partial that handles the meta tags on our site.
 
-```
+```csharp
 @inherits UmbracoViewPage<IMetaData>
     
 <meta name="description" content="@Model.MetaDescription" />
@@ -93,7 +93,7 @@ Or we might have a couple of pages that have a banner, and a few without. We jus
 
 I'm sure at one point during development of an Umbraco website you would have created a class with some constants in them, relating to the alias of the doc type. An easy way to vary your code depending on the doc type. Well, Models Builder provides this in a straightforward way. 
 
-```
+```csharp
 public partial class ExamplePage : PublishedContentModel
 {
     public new const string ModelTypeAlias = "ExamplePage";
@@ -115,6 +115,6 @@ I've outlined a few ways in which you can use Models Builder on a project above 
 
 #### Further reading
 
-* [https://our.umbraco.org/documentation/Reference/Templating/Modelsbuilder/Builder-Modes](https://our.umbraco.org/documentation/Reference/Templating/Modelsbuilder/Builder-Modes "https://our.umbraco.org/documentation/Reference/Templating/Modelsbuilder/Builder-Modes")
-* [https://our.umbraco.org/documentation/Reference/Templating/Modelsbuilder/Understand-And-Extend](https://our.umbraco.org/documentation/Reference/Templating/Modelsbuilder/Understand-And-Extend "https://our.umbraco.org/documentation/Reference/Templating/Modelsbuilder/Understand-And-Extend")
-* [https://our.umbraco.org/documentation/Reference/Routing/custom-controllers](https://our.umbraco.org/documentation/Reference/Routing/custom-controllers "https://our.umbraco.org/documentation/Reference/Routing/custom-controllers")
+- [Builder-Modes](https://our.umbraco.org/documentation/Reference/Templating/Modelsbuilder/Builder-Modes "https://our.umbraco.org/documentation/Reference/Templating/Modelsbuilder/Builder-Modes")
+- [Understand-And-Extend](https://our.umbraco.org/documentation/Reference/Templating/Modelsbuilder/Understand-And-Extend "https://our.umbraco.org/documentation/Reference/Templating/Modelsbuilder/Understand-And-Extend")
+- [Routing/custom-controllers](https://our.umbraco.org/documentation/Reference/Routing/custom-controllers "https://our.umbraco.org/documentation/Reference/Routing/custom-controllers")

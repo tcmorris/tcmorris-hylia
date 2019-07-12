@@ -2,7 +2,8 @@
 title: Umbraco Codegarden review and the future
 tagline: The highlights from the Umbraco conference and the next 12 months.
 image: /public/images/nyhavn_copenhagen.jpg
-tags: umbraco
+tags: 
+- umbraco
 ---
 
 Last week I attended my first Codegarden. It was great to be able to figure out what the fuss was all about. I really enjoyed being able to meet other Umbraco devs and be a part of it all. 

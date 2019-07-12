@@ -1,7 +1,8 @@
 ---
 title: Courier investigation
 tagline: A look at Courier for Umbraco 7 including installation and basic usage guidelines.
-tags: umbraco
+tags: 
+- umbraco
 ---
 
 ### Installation
@@ -20,10 +21,12 @@ Download from here: [https://our.umbraco.org/projects/umbraco-pro/umbraco-courie
 
 This is configurable in *courier.config*
 
-    <repository name="Example QA site" alias="example-qa" type="CourierWebserviceRepositoryProvider" visible="true">
-      <url>http://test.client.example.co.uk/</url>
-      <user>0</user>
-    </repository>
+```xml
+<repository name="Example QA site" alias="example-qa" type="CourierWebserviceRepositoryProvider" visible="true">
+  <url>http://test.client.example.co.uk/</url>
+  <user>0</user>
+</repository>
+```
 
 Courier works on the basis of having a connection between Umbraco instances and then being able to compare and push changes. If there is no connection for Umbraco, then a sync will not be possible. This also means that Courier needs to be installed on all environments that need to be in sync.
 
@@ -47,34 +50,41 @@ By default, Courier is set up quite nicely and will cover most usage cases howev
 
 Choose which folders can be included in revisions.
 
-	<folderItemProvider>
-      <include>
-        <!--<folder>~/media/assets/somefolder</folder>-->
-      </include>
-    </folderItemProvider>
+```xml
+<folderItemProvider>
+  <include>
+    <!--<folder>~/media/assets/somefolder</folder>-->
+  </include>
+</folderItemProvider>
 
 Choose which files can be included in revisions.
 
-	<fileItemProvider>
-      <!--<folder>~/media/assets/somefolder</folder>-->
-      <!--<file>~/media/assets/somefile.png</file>-->
-    </fileItemProvider>
+```xml
+<fileItemProvider>
+  <!--<folder>~/media/assets/somefolder</folder>-->
+  <!--<file>~/media/assets/somefile.png</file>-->
+</fileItemProvider>
+```
 
 Allow for children/parent media to be included.
 
-	<mediaItemProvider>
-      <includeChildren>false</includeChildren>
-      <includeParents>true</includeParents>
-    </mediaItemProvider>
+```xml
+<mediaItemProvider>
+  <includeChildren>false</includeChildren>
+  <includeParents>true</includeParents>
+</mediaItemProvider>
+```
 
 Allow/deny access by IP/users. (in security element)
 
-	<filters>
-      <ipfilter>
-        <allow>*</allow>
-      </ipfilter>
-      <userfilter>
-        <allow>*</allow>
-        <!--<deny>editor</deny>-->
-      </userfilter>
-    </filters>
+```xml
+<filters>
+  <ipfilter>
+    <allow>*</allow>
+  </ipfilter>
+  <userfilter>
+    <allow>*</allow>
+    <!--<deny>editor</deny>-->
+  </userfilter>
+</filters>
+```

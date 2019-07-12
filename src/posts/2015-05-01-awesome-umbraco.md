@@ -1,7 +1,8 @@
 ---
 title: Awesome Umbraco
 tagline: A list of packages that make Umbraco even more awesome.
-tags: umbraco
+tags: 
+- umbraco
 ---
 
 Many of you are probably aware that one of the great things about Umbraco is the fact that it is easily extendable and can be used for all sorts of flexible solutions. This is mostly down to the community and the people who are constantly building upon a solid foundation. 

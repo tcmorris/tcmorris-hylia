@@ -1,7 +1,8 @@
 ---
 title: Umbraco Codegarden preview
 tagline: A look at the upcoming Umbraco conference in Copenhagen.
-tags: umbraco
+tags: 
+- umbraco
 ---
 
 It seems like the Umbraco community has a particular buzz around this time of year. I have heard quite a few stories about [Codegarden](http://codegarden15.com/), the Umbraco conference which takes place every summer. It is of course situated in Denmark, the birth place of Umbraco and for a number of years now people have been flocking to Copenhagen to hear more about what is on the horizon for this open-source .NET CMS.

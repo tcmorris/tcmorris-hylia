@@ -1,7 +1,10 @@
 ---
 title: Continuous delivery for .NET
 tagline: A look at using TeamCity and Octopus Deploy to package up and deploy applications.
-tags: teamcity octopusdeploy dotnet
+tags: 
+- teamcity 
+- octopusdeploy 
+- dotnet
 ---
 
 One very important factor of being a developer is deploying your code to the appropriate environment without anything failing. In order to do this, we should be automating as many tasks as possible to reduce human failure. Of course, some degree of human interaction should happen but by in large, we shouldn't need to do much once we have set up our deployment process.
@@ -33,7 +36,6 @@ Below is the basic overview of steps required in set up...
 6. Install [OctoPack](http://docs.octopusdeploy.com/display/OD/Using+OctoPack) in project via NuGet (one time only for each project)
  
 As shown, a lot of these tasks you will not need to revisit and once completed, will allow you to deploy without the need for manual intervention. 
-
 
 **TeamCity**
 

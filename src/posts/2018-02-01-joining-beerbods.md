@@ -1,6 +1,8 @@
 ---
 title: New job
 tagline: I'll be joining the team at BeerBods.
+tags:
+- updates
 ---
 
 As of 12th Feb, I will be the newest member of the beer subscription company, [BeerBods](https://beerbods.co.uk/) and will be taking up the role of CTO / Head Geek.

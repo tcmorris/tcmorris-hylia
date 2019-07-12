@@ -1,7 +1,9 @@
 ---
 title: App offline strategies for your website
 tagline: What options do we have for putting a website under maintenance?
-tags: umbraco dotnet
+tags: 
+- umbraco 
+- dotnet
 ---
 
 It's undesirable, but sometimes you'll be in a scenario where you may need to take your sife offline for maintenance. This could be an upgrade to your CMS of choice (e.g. [Umbraco](https://umbraco.com/)), processing of changes behind the scenes or simply restricting users at high traffic.
