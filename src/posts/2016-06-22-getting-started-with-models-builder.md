@@ -1,7 +1,7 @@
 ---
 title: Getting Started with Models Builder
 tagline: A rundown of all the different modes for Models Builder and what they actually mean in terms of code.
-image: /public/images/models_builder_purelive.jpg
+socialImage: /images/models_builder_purelive.jpg
 tags: 
 - umbraco
 ---
