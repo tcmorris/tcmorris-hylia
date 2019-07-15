@@ -1,5 +1,5 @@
 # See https://www.netlify.com/docs/redirects/
 
-/app-offline-strategies/                            /posts/app-offline-strategies/
-/using-models-builder/                              /posts/using-models-builder/
+/app-offline-strategies                             /posts/app-offline-strategies
+/using-models-builder                               /posts/using-models-builder
 /blog/*                                             /posts/:splat
