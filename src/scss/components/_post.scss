@@ -114,6 +114,7 @@
     pre > code {
       display: block;
       background: var(--color-dark);
+      color: var(--color-mid);
       padding: get-size(700);
       font-size: get-size(500);
     }
