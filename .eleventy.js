@@ -13,7 +13,7 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 // Import data files
 const site = require('./src/_data/site.json');
 
-module.exports = function(config) {
+module.exports = function (config) {
   // Filters
   config.addFilter('dateFilter', dateFilter);
   config.addFilter('markdownFilter', markdownFilter);
@@ -27,6 +27,7 @@ module.exports = function(config) {
   config.addTransform('parse', parseTransform);
 
   // Passthrough copy
+  config.addPassthroughCopy('src/_redirects');
   config.addPassthroughCopy('src/fonts');
   config.addPassthroughCopy('src/images');
   config.addPassthroughCopy('src/js');
