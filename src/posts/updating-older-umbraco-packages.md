@@ -1,6 +1,7 @@
 ---
 title: Updating older Umbraco packages
-tagline: A collection of packages / data types and their equivalents in Umbraco 7+.
+metaDesc: A collection of packages / data types and their equivalents in Umbraco 7+.
+date: '2016-10-27'
 tags: 
 - umbraco
 ---

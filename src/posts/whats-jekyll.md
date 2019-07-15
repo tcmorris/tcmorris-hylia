@@ -1,6 +1,7 @@
 ---
 title: What's Jekyll?
-tagline: Learn more about this static site generator.
+metaDesc: Learn more about this static site generator.
+date: '2012-02-06'
 tags: 
 - jekyll
 ---

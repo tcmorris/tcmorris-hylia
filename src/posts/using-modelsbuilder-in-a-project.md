@@ -1,6 +1,7 @@
 ---
 title: Using Models Builder in a project
-tagline: There are a few ways to use Models Builder, here's how you might want to use it.
+metaDesc: There are a few ways to use Models Builder, here's how you might want to use it.
+date: '2018-06-03'
 tags:
 - umbraco
 ---

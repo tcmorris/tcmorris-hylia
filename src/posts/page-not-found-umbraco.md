@@ -1,6 +1,7 @@
 ---
 title: Page Not Found in Umbraco
-tagline: A quick and easy example of how to implement a page not found content finder in Umbraco.
+metaDesc: A quick and easy example of how to implement a page not found content finder in Umbraco.
+date: '2015-03-02'
 tags: 
 - umbraco
 ---

@@ -1,6 +1,7 @@
 ---
 title: App offline strategies for your website
-tagline: What options do we have for putting a website under maintenance?
+metaDesc: What options do we have for putting a website under maintenance?
+date: '2018-10-09'
 tags: 
 - umbraco 
 - dotnet

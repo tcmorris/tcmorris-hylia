@@ -1,6 +1,7 @@
 ---
 title: Upgrading Umbraco
-tagline: A rundown of some of the reasons for upgrading Umbraco and the challenges faced.
+metaDesc: A rundown of some of the reasons for upgrading Umbraco and the challenges faced.
+date: '2016-05-17'
 tags: 
 - umbraco
 ---

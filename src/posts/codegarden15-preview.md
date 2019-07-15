@@ -1,6 +1,7 @@
 ---
 title: Umbraco Codegarden preview
-tagline: A look at the upcoming Umbraco conference in Copenhagen.
+metaDesc: A look at the upcoming Umbraco conference in Copenhagen.
+date: '2015-06-03'
 tags: 
 - umbraco
 ---

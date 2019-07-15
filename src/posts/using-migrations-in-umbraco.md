@@ -1,6 +1,7 @@
 ---
 title: Using migrations in Umbraco
-tagline: How to set up migrations for your Umbraco project.
+metaDesc: How to set up migrations for your Umbraco project.
+date: '2018-10-28'
 tags: 
 - umbraco
 ---

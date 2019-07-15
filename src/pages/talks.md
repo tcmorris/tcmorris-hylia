@@ -1,6 +1,6 @@
 ---
 title: Talks
-tagline: A collection of some of the talks that Thomas Morris has done across the years.
+metaDesc: A collection of some of the talks that Thomas Morris has done across the years.
 permalink: /talks/index.html
 ---
 

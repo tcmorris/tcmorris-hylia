@@ -1,7 +1,8 @@
 ---
 title: Getting Started with Models Builder
-tagline: A rundown of all the different modes for Models Builder and what they actually mean in terms of code.
+metaDesc: A rundown of all the different modes for Models Builder and what they actually mean in terms of code.
 socialImage: /images/models_builder_purelive.jpg
+date: '2016-06-22'
 tags: 
 - umbraco
 ---

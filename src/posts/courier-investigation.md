@@ -1,6 +1,7 @@
 ---
 title: Courier investigation
-tagline: A look at Courier for Umbraco 7 including installation and basic usage guidelines.
+metaDesc: A look at Courier for Umbraco 7 including installation and basic usage guidelines.
+date: '2015-02-24'
 tags: 
 - umbraco
 ---

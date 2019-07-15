@@ -1,7 +1,8 @@
 ---
 title: Umbraco Codegarden review and the future
-tagline: The highlights from the Umbraco conference and the next 12 months.
+metaDesc: The highlights from the Umbraco conference and the next 12 months.
 socialImage: /images/nyhavn_copenhagen.jpg
+date: '2015-06-19'
 tags: 
 - umbraco
 ---

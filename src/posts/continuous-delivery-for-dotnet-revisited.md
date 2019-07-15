@@ -1,6 +1,7 @@
 ---
 title: Continuous delivery for .NET (revisited)
-tagline: An update on using TeamCity and Octopus Deploy to package up and deploy applications.
+metaDesc: An update on using TeamCity and Octopus Deploy to package up and deploy applications.
+date: '2015-07-03'
 tags: 
 - teamcity 
 - octopusdeploy 

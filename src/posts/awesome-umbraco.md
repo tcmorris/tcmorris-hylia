@@ -1,6 +1,7 @@
 ---
 title: Awesome Umbraco
-tagline: A list of packages that make Umbraco even more awesome.
+metaDesc: A list of packages that make Umbraco even more awesome.
+date: '2015-05-01'
 tags: 
 - umbraco
 ---

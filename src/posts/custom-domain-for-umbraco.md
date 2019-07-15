@@ -1,6 +1,7 @@
 ---
 title: Using a custom domain for accessing umbraco
-tagline: Changing how your content editors access Umbraco.
+metaDesc: Changing how your content editors access Umbraco.
+date: '2015-03-16'
 tags: 
 - umbraco
 ---

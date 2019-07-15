@@ -1,6 +1,7 @@
 ---
 title: New job
-tagline: I'll be joining the team at BeerBods.
+metaDesc: I'll be joining the team at BeerBods.
+date: '2018-02-01'
 tags:
 - updates
 ---

@@ -1,7 +1,8 @@
 ---
 title: ASP.NET vNext and Mac OS X
-tagline: A quick look at how to set up ASP.NET on a Mac.
+metaDesc: A quick look at how to set up ASP.NET on a Mac.
 socialImage: /images/aspnet_vnext_1.jpg
+date: '2015-06-22'
 tags: 
 - dotnet
 ---
