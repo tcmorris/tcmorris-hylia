@@ -1,7 +1,7 @@
 ---
 title: Using Models Builder in a project
 metaDesc: There are a few ways to use Models Builder, here's how you might want to use it.
-permalink: /posts/using-models-builder/
+permalink: /posts/using-models-builder/index.html
 date: '2018-06-03'
 tags:
 - umbraco
