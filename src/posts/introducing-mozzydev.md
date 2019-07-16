@@ -23,3 +23,9 @@ After being called mozzy, moz or mo quite often, it seems appropriate to stay al
 Here's [some reading](https://codeshare.co.uk/blog/boosting-your-career-by-creating-a-personal-brand/) that you might find of interest from Paul Seal of codeshare.co.uk fame.
 
 Andy tells us his story too: [So long, HankChizlJaw](https://andy-bell.design/wrote/so-long-hankchizljaw/)
+
+## Personal sites
+
+With a personal brand goes a personal site. Sure, you could write on Medium or some other online community, but in doing so you're effectively losing a level of control over your content. If I wanted to change anything on this site, I've got the source code, including all the posts and images that go with it. In migrating from Jekyll, all I needed to do was copy and paste some files.
+
+If you're wanting to start a personal site, perhaps try something like [Hylia](https://hylia.website) as a starting point. 
