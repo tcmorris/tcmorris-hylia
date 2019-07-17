@@ -9,7 +9,7 @@ I am a Bristol based web developer who specialises in [Umbraco]({{ site.umbraco.
 
 During that time I have been fortunate to work with clients such as Travelex, Greene King, BMW Group, Swinton, RSPB, British Cycling and Sky to name a few.
 
-Feel free to [follow me on Twitter](https://twitter.com/mozzy16) or drop me an [email](mailto:hello@tcmorris.net).
+Feel free to [follow me on Twitter](https://twitter.com/mozzydev) or drop me an [email](mailto:hello@tcmorris.net).
 
 ## Setup
 
