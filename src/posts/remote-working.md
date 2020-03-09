@@ -25,10 +25,10 @@ Replace your commute with something for yourself. Go for a walk with the dog, cy
 
 **Invest in your space**. Ideally you'll have somewhere that is a place for you, with a decent set of equipment and lighting. Working in a common room within your house/flat will likely make it harder to concentrate and may lead to distractions.
 
-If your company has to overemphasize the fact you need to *work* whilst you are at home, then they probably don't trust you to do any work or are at least unfamiliar with the concept. **Don't overcompensate** by doing more work. 
+If your company has to overemphasize the fact you need to *work* whilst you are at home, then they probably don't trust you to do any work or are at least unfamiliar with the concept. **Don't overcompensate** by doing more work. If you want to do more work because you're in the zone or whatever, by all means do so, just remember to take some time out.
 
 Take notes and provide a plan of what you'll be working on. This can be as simple as you like. Working to a few **bullet points and targets** will add extra focus and satisfaction when complete.
 
-Spend time with your **family, significant others**. It can be really easy to slip into constantly thinking about work and failing to relax with the people around you.
+Spend time with your **family, friends and significant others**. It can be really easy to slip into constantly thinking about work and failing to relax with the people around you. Enjoy life outside of work.
 
 **Hopefully these tips will put you on the right path to remote working bliss.**
