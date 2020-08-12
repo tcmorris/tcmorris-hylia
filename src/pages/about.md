@@ -5,12 +5,13 @@ permalink: /about/index.html
 
 Hello.
 
-I am a Bristol based web developer who specialises in [Umbraco]({{ site.umbraco.link }}), Episerver and ASP.NET. I work for a company called [BeerBods](https://beerbods.co.uk/), a beer club and subscription service. Previously, I worked for [Zone](https://www.zonedigital.com/uk/), named as one of the best digital agencies in the UK. 
+I am a Bristol based web developer who specialises in [Umbraco](https://umbraco.com/training/certified-developers/umbraco-7-certified-developers/certifieddeveloperdetails/?id=6bb58bc7-772d-4d71-99da-b924cb232066), Episerver and ASP.NET. I work for a company called [BeerBods](https://beerbods.co.uk/), a beer club and subscription service. Previously, I worked for [Zone](https://www.zonedigital.com/uk/), named as one of the best digital agencies in the UK. 
 
-During that time I have been fortunate to work with clients such as Travelex, Greene King, BMW Group, Swinton, RSPB, British Cycling and Sky to name a few.
+With over 10 years of working in the industry, I have been fortunate to work with clients such as Travelex, Greene King, BMW Group, Swinton, RSPB, British Cycling and Sky to name a few.
 
-Feel free to [follow me on Twitter](https://twitter.com/mozzydev) or drop me an [email](mailto:hello@tcmorris.net).
+I'm interested in the future of the web, ensuring that it is an accessible platform for developers and users alike. I like to build solutions with the customer in focus, aiming for the best possible experience with a friendly tone. Even complex problems can appear simple. In some way, the posts that I'll write will be an attempt to provide that outlook.
 
-## Setup
+I help run an Umbraco [meetup group](https://www.meetup.com/umBristol/) in Bristol and have done a few [talks](/talks/) at local meetup groups and conferences. When time allows, I try to contribute to open source projects and the wider community as a whole.
 
-This website is using Hylia, a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) and created by Andy Bell.
+Feel free to follow me on [Twitter](https://twitter.com/mozzydev) or drop me an [email](mailto:hello@tcmorris.net).
+
