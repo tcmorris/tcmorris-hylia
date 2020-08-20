@@ -8,7 +8,7 @@ tags:
 - dotnet
 ---
 
-Last year I wrote about deployments and the idea of [continuous delivery for .NET](/blog/continuous-delivery-for-dotnet/). During that article I spoke about how to set up and configure TeamCity and Octopus Deploy as tools for deployment as well as adding some notes around process. 
+Last year I wrote about deployments and the idea of [continuous delivery for .NET](http://tcmorris.net/blog/continuous-delivery-for-dotnet/). During that article I spoke about how to set up and configure TeamCity and Octopus Deploy as tools for deployment as well as adding some notes around process. 
 
 Well, things change and constant improvements are made, so this is a look back on that article and an update as to how the process has been modified. The good news is that the tools chosen in the first article have become staples in the deployment process and what we are talking about here is a refinement. To reiterate the purpose... 
 
