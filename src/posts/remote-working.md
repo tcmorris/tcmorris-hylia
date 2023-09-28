@@ -3,7 +3,7 @@ title: Remote working
 metaDesc: Some thoughts on remote working and how to hopefully do it better.
 date: '2020-03-09'
 tags: 
-- remote
+- updates
 - worklife
 ---
 

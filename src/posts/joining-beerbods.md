@@ -1,5 +1,5 @@
 ---
-title: New job
+title: Joining BeerBods
 metaDesc: I'll be joining the team at BeerBods.
 date: '2018-02-01'
 tags:

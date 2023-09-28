@@ -4,6 +4,7 @@ metaDesc: The highlights from the Umbraco conference and the next 12 months.
 socialImage: /images/nyhavn_copenhagen.jpg
 date: '2015-06-19'
 tags: 
+- updates
 - umbraco
 ---
 
@@ -33,7 +34,7 @@ Part of what adds to the fun of Codegarden is that it is a 3 day event. Evenings
 
 This year, there was a march through Copenhagen to the meatpacking district where we were able to enjoy the clear night sky with a few drinks and good company. Umbraco bingo was as crazy as I thought it might be and the package competition had a nice comic twist to it.
 
-![Nyhavn](/public/images/nyhavn_copenhagen.jpg)
+![Nyhavn](/images/nyhavn_copenhagen.jpg)
 
 ### Until next year
 
