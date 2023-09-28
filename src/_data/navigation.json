@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": false
-    },
-    {
       "text": "About",
       "url": "/about/",
       "external": false
@@ -19,6 +14,11 @@
       "text": "Twitter",
       "url": "https://twitter.com/mozzydev",
       "external": true
+    },
+    {
+      "text": "Mastadon",
+      "url": "https://umbracocommunity.social/@mozzydev",
+      "me": true
     }
   ]
 }

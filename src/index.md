@@ -5,4 +5,4 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-A dotnet developer working with Umbraco, an open source CMS.
+Tech Lead / Umbraco MVP / umBristol co-organiser
