@@ -1,5 +1,6 @@
 ---
 title: About
+metaDesc: Thomas Morris is a Bristol (UK) based tech lead who specialises in Umbraco and ASP.NET.
 permalink: /about/index.html
 ---
 
